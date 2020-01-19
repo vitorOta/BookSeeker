@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel_2" />
+        <device id="wear_square" />
+        <device id="tv_1080p" />
+        <device id="pixel_3_xl" />
+        <device id="5.1in WVGA" />
+        <device id="3.2in HVGA slider (ADP1)" />
+        <device id="2.7in QVGA" />
+        <device id="4.65in 720p (Galaxy Nexus)" />
+        <device id="pixel" />
+        <device id="3.3in WQVGA" />
+        <locale>pt-rBR</locale>
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="AL.Canais.Digitais.Ui.Android-features-consultareservas" />
+      <module name="AL.Canais.Digitais.Ui.Android" />
+      <module name="authentication" />
+      <module name="app" />
+      <module name="assinaturaeletronica" />
+      <module name="actions" />
+      <module name="checkinexpress" />
+      <module name="common" />
+      <module name="configuracaoapp" />
+      <module name="contato" />
+      <module name="features-consultareservas" />
+      <module name="dadosdispositivo" />
+      <module name="consultareservas" />
+      <module name="localizacao" />
+      <module name="login" />
+      <module name="logging" />
+      <module name="network" />
+      <module name="testutils" />
+      <module name="reserva" />
+      <module name="ui_components" />
+    </loaded-modules>
+  </component>
+  <component name="AvailableLibraryUpdateStorage">
+    <library-updates>
+      <library-update>
+        <group-id>androidx.lifecycle</group-id>
+        <name>lifecycle-viewmodel-ktx</name>
+        <version>2.2.0-alpha03</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.crashlytics.sdk.android</group-id>
+        <name>crashlytics</name>
+        <version>2.10.1</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.test.espresso</group-id>
+        <name>espresso-core</name>
+        <version>3.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>com.jakewharton.timber</group-id>
+        <name>timber</name>
+        <version>4.7.1</version>
+        <repository>JCenter,Maven Central</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.test</group-id>
+        <name>runner</name>
+        <version>1.3.0-alpha02</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>androidx.core</group-id>
+        <name>core-ktx</name>
+        <version>1.2.0-alpha03</version>
+        <repository>Google</repository>
+      </library-update>
+      <library-update>
+        <group-id>org.jetbrains.kotlinx</group-id>
+        <name>kotlinx-coroutines-core</name>
+        <version>1.3.0-RC2</version>
+        <repository>Maven Central</repository>
+      </library-update>
+    </library-updates>
+    <last-search-timestamp>1564164172444</last-search-timestamp>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="79680605-05ac-4744-a017-ffc5a340a5fa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/features/login/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/features/login/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginViewModel.kt" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="0051054868" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AL.Canais.Digitais.Ui.Android" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AL.Canais.Digitais.Ui.Android" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginViewModel.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/ui/login/LoginActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="112" column="70" selection-start-line="112" selection-start-column="70" selection-end-line="112" selection-end-column="70" />
+              <folding>
+                <element signature="e#40#758#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/login/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/buildsystem/dependencies.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="68" column="24" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/reserva/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/authentication/src/main/java/mobile/libraries/authentication/di/AuthenticationModule.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="15" column="59" selection-start-line="15" selection-start-column="59" selection-end-line="15" selection-end-column="59" />
+              <folding>
+                <element signature="e#44#165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/authentication/src/main/java/mobile/libraries/authentication/Authentication.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="640">
+              <caret line="45" column="1" selection-start-line="45" selection-start-column="1" selection-end-line="45" selection-end-column="1" />
+              <folding>
+                <element signature="e#41#274#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile_vertical" />
+        <option value="resourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin Object" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setData</find>
+      <find>lastLocation</find>
+      <find>koinViewModel</find>
+      <find>modules</find>
+      <find>SingleLiveData</find>
+      <find>updateLi</find>
+      <find>rotate</find>
+      <find>CameraView</find>
+      <find>camera</find>
+      <find>viewMo</find>
+      <find>selecionar</find>
+      <find>line</find>
+      <find>lineAd</find>
+      <find>selecaooferta:</find>
+      <find>I'M NOT REGISTERED YET</find>
+      <find>colorControlNormal</find>
+      <find>TextInputEditText</find>
+      <find>theme</find>
+      <find>edittextE</find>
+      <find>teste</find>
+      <find>login</find>
+      <find>entre</find>
+      <find>choiceItems</find>
+      <find>:login</find>
+      <find>getModules():</find>
+      <find>etCpf</find>
+      <find>FORMAT_</find>
+      <find>FORMAT_CPF</find>
+      <find>FORMAT</find>
+      <find>etNumeroDocumento</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Trabalho_VitorOta\Documents\AL.Canais.Digitais.Ui.Android\libraries\configuracaoapp\src\main\java\mobile\libraries\configuracaoapp</dir>
+      <dir>C:\Users\Trabalho_VitorOta\Documents\AL.Canais.Digitais.Ui.Android\libraries\configuracaoapp\src\main\java\mobile\libraries\configuracaoapp\data\network</dir>
+      <dir>C:\Users\Trabalho_VitorOta\Documents\AL.Canais.Digitais.Ui.Android\features\reserva</dir>
+      <dir>C:\projetos\AL.Canais.Digitais.Ui.Android\features\reserva\src\main\java\mobile\features\reserva\model</dir>
+      <dir>C:\projetos\AL.Canais.Digitais.Ui.Android\features\consultareservas\src\main\java\mobile\features\consultareservas</dir>
+      <dir>C:\projetos\AL.Canais.Digitais.Ui.Android\features\reserva\src\main\java\mobile\features\reserva\ui</dir>
+      <dir>C:\projetos\AL.Canais.Digitais.Ui.Android\features\reserva</dir>
+      <dir>C:\projetos\AL.Canais.Digitais.Ui.Android\features\consultareservas</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/libraries/login/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/libraries/login/src/main/java/mobile/libraries/login/TipoAutenticacao.kt" />
+        <option value="$PROJECT_DIR$/libraries/login/src/main/java/mobile/libraries/login/ui/login/LoginViewModel.kt" />
+        <option value="$PROJECT_DIR$/buildsystem/androidDefaultConfig.gradle" />
+        <option value="$PROJECT_DIR$/libraries/login/src/main/res/layout/activity_login.xml" />
+        <option value="$PROJECT_DIR$/libraries/login/src/main/java/mobile/libraries/login/ui/login/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/libraries/actions/build.gradle" />
+        <option value="$PROJECT_DIR$/libraries/actions/src/main/java/mobile/libraries/actions/Actions.kt" />
+        <option value="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/TipoAutenticacao.kt" />
+        <option value="$PROJECT_DIR$/features/login/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/libraries/actions/src/main/java/mobile/libraries/actions/ui/base_menu/AcoesMenu.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/localiza/mobile/main/MainActivity.kt" />
+        <option value="$PROJECT_DIR$/features/login/src/main/java/mobile/features/login/di/LoginModule.kt" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/localiza/mobile/AppModuleTest.kt" />
+        <option value="$PROJECT_DIR$/features/login/src/test/java/mobile/features/login/LoginModuleTest.kt" />
+        <option value="$PROJECT_DIR$/libraries/configuracaoapp/src/test/java/mobile/libraries/configuracaoapp/MockObjects.kt" />
+        <option value="$PROJECT_DIR$/libraries/ui_components/src/main/res/font/localizadindisplay.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/google-services.json" />
+        <option value="$PROJECT_DIR$/libraries/ui_components/src/main/res/values/dimens.xml" />
+        <option value="$PROJECT_DIR$/libraries/ui_components/src/main/res/drawable/ic_menu.xml" />
+        <option value="$PROJECT_DIR$/features/reserva/src/main/java/mobile/features/reserva/ui/novareserva/grupo/elegibilidadeFast/ElegibilidadeFastActivity.kt" />
+        <option value="$PROJECT_DIR$/features/login/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/libraries/common/src/main/java/mobile/libraries/c
