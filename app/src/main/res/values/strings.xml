@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BookSeeker</string>
+
+    <!--    region BaseViewModel-->
+    <string name="error_network">Oh oh, something went wrong\\nTry again later</string>
+    <string name="error_http">This is an http error</string>
+    <string name="error_default">RUN FOREST, RUN!\\n\\n*something unexpectedly went wrong</string>
+    <!--    endregion-->
+
+    <!--    region GenericFragment-->
+    <string name="generic_message">It\'s empty here</string>
+    <!--    endregion-->
+
 </resources>

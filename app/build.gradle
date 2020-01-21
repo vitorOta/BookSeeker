@@ -1,11 +1,13 @@
 apply plugin: 'com.android.application'
 apply from: rootProject.file('buildsystem/androidDefaultConfig.gradle')
+apply plugin: "androidx.navigation.safeargs.kotlin"
 
 android {
     def androidConfig = rootProject.ext.android
 
     defaultConfig {
         applicationId androidConfig.applicationId
+        vectorDrawables.useSupportLibrary = true
     }
 }
 
@@ -13,9 +15,18 @@ dependencies {
     def deps = rootProject.ext.dependencies
     def testDeps = rootProject.ext.testDependencies
 
+    implementation project(":domain")
+    implementation project(":data")
+
+    implementation deps.navigationUI
+    implementation deps.navigationFragment
+
     implementation deps.appCompat
     implementation deps.constraintLayout
     implementation deps.material
+
+    implementation deps.lottie
+    implementation deps.timber
 
     implementation deps.koin
     implementation deps.koinViewModel

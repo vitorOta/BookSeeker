@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/nav_readingNow">
+    <fragment
+        android:id="@+id/nav_bookStore"
+        android:name="com.vitorota.bookseeker.ui.bookstore.BookStoreFragment"
+        android:label="@string/menu_item_bookStore" />
+    <fragment
+        android:id="@+id/nav_library"
+        android:name="com.vitorota.bookseeker.ui.library.LibraryFragment"
+        android:label="@string/menu_item_library" />
+    <fragment
+        android:id="@+id/nav_readingNow"
+        android:name="com.vitorota.bookseeker.ui.readingnow.ReadingNowFragment"
+        android:label="@string/menu_item_readingNow" />
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.vitorota.bookseeker.ui.search.SearchFragment"
+        android:label="@string/menu_item_search" />
+</navigation>

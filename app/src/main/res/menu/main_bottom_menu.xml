@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_readingNow"
+        android:icon="@drawable/ic_reading_now"
+        android:title="@string/menu_item_readingNow" />
+
+    <item
+        android:id="@+id/menu_library"
+        android:icon="@drawable/ic_library"
+        android:title="@string/menu_item_library" />
+
+    <item
+        android:id="@+id/menu_book_store"
+        android:icon="@drawable/ic_book_store"
+        android:title="@string/menu_item_bookStore" />
+
+    <item
+        android:id="@+id/menu_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/menu_item_search" />
+
+</menu>
